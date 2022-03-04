@@ -1,6 +1,6 @@
 Olá, Sou a Jessica Velloso! 👋🏾
 
-📚 Atualmente estudante de Front-End.
+📚 Atualmente estudante de Back-End.
 
 🧱 Portifólio em construção
 
