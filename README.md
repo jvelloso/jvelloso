@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone! </h1>
-<h3 align="center">Dev from Rio, 28 anos, mãe de pet, introvertida e curiosa. Descobrindo como me achar incrível no mundo tech. :)</h3>
+<h3 align="center">Dev from Rio, 29 anos, mãe de pet, introvertida e curiosa. Descobrindo como me achar incrível no mundo tech. :)</h3>
 
 - 🌱 Atualmente estudo **PHP e Laravel**
 
